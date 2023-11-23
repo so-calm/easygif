@@ -26,7 +26,7 @@ Extract and render GIF frames easily
 
 The most basic usage is described in this section
 
-- A few more examples can be found in [the corresponding directory]()
+- A few more examples can be found in [the corresponding directory](examples)
 
 ```js
 // The example is not loaded, please clear your caches and check if it's available yet
@@ -44,7 +44,7 @@ Alternatively, you may check the [**Manual Installation** section](#manual-insta
 
 - Make sure you have [`ffmpeg` binaries](https://ffmpeg.org/download.html) in your `PATH` environment variable
   - Otherwise, you may include _the binaries_ in the `bin` folder for the package to catch up
-- Download the corresponding [**EasyGIF** binaries](#easygif). Make sure that the version of the package matches with the binary version. Once you got _the binary_, just put it into the `bin` folder
+- Download the corresponding [**EasyGIF** binaries](https://github.com/so-calm/easygif/releases). Make sure that the version of the package matches with the binary version. Once you got _the binary_, just put it into the `bin` folder
 
 ## Potential Issues
 
@@ -75,7 +75,7 @@ This question is actually irrelevant. Initially, I didn't want to publish the so
 
 ## Issuing
 
-If you've caught bug or got a proposal, feel free to open an issue.
+If you've caught a bug or got a proposal, feel free to [open an issue](https://github.com/so-calm/easygif/issues).
 
 I'm too lazy to prepare some sort of a guideline. Please just describe issues as clearly as possible. Much appreciated
 
