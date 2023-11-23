@@ -1,0 +1,12 @@
+target_node/
+target_py/
+target/
+Cargo.lock
+
+artifacts/
+bin/
+
+.*/
+!.cargo
+scripts/build*
+Makefile

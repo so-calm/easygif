@@ -1,0 +1,37 @@
+{
+  "name": "@zargovv/easygif",
+  "version": "1.0.0-rc0",
+  "description": "Extract and render GIF frames easily",
+  "author": "zargovv <zargovv@gmail.com>",
+  "license": "MIT",
+  "main": "lib/easygif.js",
+  "homepage": "https://github.com/so-calm/easygif",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/so-calm/easygif.git"
+  },
+  "bugs": {
+    "url": "https://github.com/so-calm/easygif/issues"
+  },
+  "keywords": [
+    "gif",
+    "easy",
+    "frames",
+    "rgba",
+    "image",
+    "images",
+    "render",
+    "rendering",
+    "ffmpeg",
+    "native",
+    "generate",
+    "process",
+    "encode",
+    "decode",
+    "serialize",
+    "deserialize",
+    "animation",
+    "tool"
+  ],
+  "scripts": {}
+}
