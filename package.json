@@ -33,5 +33,10 @@
     "animation",
     "tool"
   ],
-  "scripts": {}
+  "scripts": {
+    "install": "node scripts/install"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.5"
+  }
 }

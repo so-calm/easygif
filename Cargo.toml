@@ -1,0 +1,13 @@
+[package]
+name = "easygif"
+version = "0.0.0"
+edition = "2021"
+authors = ["zargovv <zargovv@gmail.com>"]
+description = "Extract and render GIF frames easily"
+
+[lib]
+crate-type = ["cdylib"]
+
+[features]
+node = []
+py = []

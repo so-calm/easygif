@@ -3,10 +3,12 @@ target_py/
 target/
 Cargo.lock
 
+node_modules/
+pnpm-lock.yaml
+
 artifacts/
 bin/
+lib/node.lib
 
 .*/
 !.cargo
-scripts/build*
-Makefile
