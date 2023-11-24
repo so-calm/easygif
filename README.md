@@ -88,7 +88,7 @@ prepared for them, so you won't waste your time
     I'll look into it if it eventually become a larger problem.\
      If you face any issues, or you really want this to be fixed,\
      consider [opening an issue](#issuing)
-- Awful errors
+- Awful error messages
 
 ## Release?
 
