@@ -1,6 +1,6 @@
 {
   "name": "@zargovv/easygif",
-  "version": "1.0.0-rc0",
+  "version": "1.0.0-rc1",
   "description": "Extract and render GIF frames easily",
   "author": "zargovv <zargovv@gmail.com>",
   "license": "MIT",
