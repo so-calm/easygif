@@ -168,7 +168,7 @@ async function entry() {
   // Don't ask me why.
   // Result is: "Probe {}"
 
-  const extract = await easygif.extract(probe, "./icon.gif");
+  const extract = await easygif.extract(probe);
   console.log(extract);
   // Same case: "Extract {}".
   // But in fact there is no much debug information here, so **IT'S FINE**
